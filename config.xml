@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.michael.nomino" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name short="NWP">nomino word puzzle</name>
+    <description>A puzzle for you to guess five letter words</description>
+    <author email="michaelnjuguna184@gmail.com" href="https://michael-njuguna-developer.netlify.app/">
+        Michael Njuguna
+    </author>
+    <!-- splash screen -->
+    <splash src="res/screen/android/splash.png"/>
+      <preference name="AutoHideSplashScreen" value="true" />
+        <preference name="SplashScreenDelay" value="3000" />
+          <preference name="FadeSplashScreen" value="true"/>
+          <preference name="FadeSplashScreenDuration" value="500"/>
+          <!-- spinner -->
+            <preference name="ShowSplashScreenSpinner" value="true"/>
+            <preference name="SplashScreenSpinnerColor" value="#262626" />
+            <!-- status bar -->
+            <preference name="StatusBarOverlaysWebView" value="false" />
+            <preference name="StatusBarBackgroundColor" value="#262626" />
+              <preference name="StatusBarStyle" value="lightcontent" />
+              <!-- icon -->
+              <icon src="res/screen/android/icon.png"/>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
