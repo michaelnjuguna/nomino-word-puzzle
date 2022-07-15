@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.michael.nomino" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name short="NWP">nomino word puzzle</name>
+<widget id="com.michael.nomino" version="1.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name short="nwp">nomino word puzzle</name>
     <description>A puzzle for you to guess five letter words</description>
     <author email="michaelnjuguna184@gmail.com" href="https://michael-njuguna-developer.netlify.app/">
         Michael Njuguna
